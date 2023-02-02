@@ -20,7 +20,7 @@ timezone: Asia/Tokyo
 
 title: MyLab # the main title
 
-tagline: Note for CS # it will display as the sub-title
+tagline: Note for CS_test # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Note for CS
@@ -79,7 +79,8 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: './_images/WechatIMG394.jpeg'
+
 
 # boolean type, the global switch for ToC in posts.
 toc: true
