@@ -1,11 +1,11 @@
 ---
-title: Environment
+title: Environments
 date: 2023-02-01 
 categories: [cs61a]
 tags: [cs61a]
 ---
 
-# Environment
+# Environments
 
 The = symbol is called the assignment operator in Python (and many other languages). Assignment is our simplest means of abstraction, for it allows us to use simple names to refer to the results of compound operations, such as the area computed above. In this way, complex programs are constructed by building, step by step, computational objects of increasing complexity.
 
@@ -37,3 +37,6 @@ def lambda_curry2(func):
     "*** YOUR CODE HERE ***"
     return ______
 ```
+
+## photo
+![image](https://github.com/shin0314/shin0314.github.io/raw/main/_images/WechatIMG394.jpeg)

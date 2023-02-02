@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: './_images/WechatIMG394.jpeg'
+avatar: https://github.com/shin0314/shin0314.github.io/raw/main/_images/WechatIMG394.jpeg
 
 
 # boolean type, the global switch for ToC in posts.
